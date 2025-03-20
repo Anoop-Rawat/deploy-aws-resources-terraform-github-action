@@ -1,1 +1,2 @@
-# deploy-aws-resources-terraform-github-action
+# github-actions-terraform
+github-actions-terraform
